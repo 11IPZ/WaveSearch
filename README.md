@@ -1,2 +1,2 @@
 # WaveSearch
-![alt tag](http://domain.com/path/to/img.png "Test")
+![alt tag](Test.png "Test")
